@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": ".js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qosimjon",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@wdio/appium-service": "^8.23.1",
+    "webdriverio": "^8.23.1"
+  }
+}
