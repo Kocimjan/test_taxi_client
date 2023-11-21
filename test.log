@@ -1,0 +1,27 @@
+Click: //android.widget.TextView[@text="Куда едем?"]
+Click: //android.widget.TextView[@text="улица Қорӣ Ниёзӣ 3"]
+Click: //android.widget.ImageView[@content-desc="car_eco"]
+Click: //androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[5]
+Click: //android.widget.TextView[@text="Куда едем?"]
+Click: //android.widget.TextView[@text="улица Қорӣ Ниёзӣ 3"]
+Click: //android.widget.ImageView[@content-desc="car_eco"]
+Click: //androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[5]
+Click: //android.widget.TextView[@text="Куда едем?"]
+Click: //android.widget.TextView[@text="улица Қорӣ Ниёзӣ 3"]
+Click: //android.widget.ImageView[@content-desc="car_eco"]
+Click: //androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[6]/android.view.View[3]/android.widget.Button
+Click: //android.widget.TextView[@text="Минивэн"]
+Click: //android.widget.TextView[@text="Добавить надбавки"]
+Unexpected error: An unknown server-side error occurred while processing the command. Original error: unknown action undefined
+Click: //android.widget.TextView[@text="Куда едем?"]
+Click: //android.widget.TextView[@text="улица Қорӣ Ниёзӣ 3"]
+Click: //android.widget.ImageView[@content-desc="car_eco"]
+Click: //androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[6]/android.view.View[3]/android.widget.Button
+Click: //android.widget.TextView[@text="Минивэн"]
+Click: //android.widget.TextView[@text="Добавить надбавки"]
+Click: //android.widget.TextView[@text="Куда едем?"]
+Click: //android.widget.TextView[@text="улица Қорӣ Ниёзӣ 3"]
+Click: //android.widget.ImageView[@content-desc="car_eco"]
+Click: //androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[6]/android.view.View[3]/android.widget.Button
+Click: //android.widget.TextView[@text="Минивэн"]
+Click: //android.widget.TextView[@text="Добавить надбавки"]
